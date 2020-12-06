@@ -19,6 +19,7 @@ const Global = () => {
 
     return ( 
     <>          
+        {/* eslint-disable-next-line */}
         <Global_view
             confirmed ={data1.value} 
             recovered ={data2.value}

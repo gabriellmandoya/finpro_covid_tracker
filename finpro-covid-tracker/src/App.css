@@ -7,11 +7,24 @@
   padding: 10px;
 }
 
-/* .App {
+.App {
   text-align: center;
 }
 
-.App-logo {
+.view_data {
+  width:800px;
+  background-color: #282c34;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  height: 20vh;
+  list-style: none;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -20,7 +33,7 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
   background-color: #282c34;
@@ -33,7 +46,7 @@
   color: white;
 }
 
-.App-link {
+/* .App-link {
   color: #61dafb;
 }
 

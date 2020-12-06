@@ -13,6 +13,7 @@ const Indonesia = () => {
 
     return (
         <>
+            {/* eslint-disable-next-line */}
             <Indo_view 
                 positive={datas.perawatan}
                 negative={datas.sembuh}
